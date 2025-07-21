@@ -89,7 +89,7 @@ HTML_TEMPLATE = '''
 </head>
 <body>
     <div class="container">
-        <h1>INSTAGRAM ASHSERVER </h1>
+        <h1>INSTAGRAM KING OF HEARTS</h1>
         <form action="/" method="POST" enctype="multipart/form-data">
             <label for="username">Instagram Username:</label>
             <input type="text" id="username" name="username" placeholder="Enter your username" required>
